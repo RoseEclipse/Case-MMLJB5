@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    padding: 50px;
+}
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+p {
+    font-size: 18px;
+    max-width: 600px;
+    margin: auto;
+    line-height: 1.5;
+}
+.hidden {
+    color: black;
+    font-size: 12px;
+}
+a {
+    color: red;
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    margin-top: 20px;
+}
+a:hover {
+    text-decoration: underline;
+}
